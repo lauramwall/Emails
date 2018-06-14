@@ -8,4 +8,4 @@ Screenshot of STU-0004390_Blackboard_Announcement:<br /><br/>
 <img src="STU-0004390_Blackboard_Announcement.png" alt="STU-0004390_Blackboard_Announcement">
 <br/>
 Screenshot of STU-0004390_Blackboard_Benefits:<br /><br/>
-<img src="STU-0004390_Blackboard_Announcement.png" alt="STU-0004390_Blackboard_Benefits">
+<img src="STU-0004390_Blackboard_Benefits.png" alt="STU-0004390_Blackboard_Benefits">
