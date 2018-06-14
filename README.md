@@ -4,5 +4,8 @@ These are emails designed, produced, and developed by the Creative Team at the U
 <ul>
   <li>Currently not accepting commits or changes publicly.</li>
 </ul>
-Screenshot of STU-0004390_Blackboard_Announcement:<br />
+Screenshot of STU-0004390_Blackboard_Announcement:<br /><br/>
 <img src="STU-0004390_Blackboard_Announcement.png" alt="STU-0004390_Blackboard_Announcement">
+<br /><br/>
+Screenshot of STU-0004390_Blackboard_Benefits:<br /><br/>
+<img src="STU-0004390_Blackboard_Announcement.png" alt="STU-0004390_Blackboard_Benefits">
