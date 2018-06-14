@@ -4,5 +4,5 @@ These are emails designed, produced, and developed by the Creative Team at the U
 <ul>
   <li>Currently not accepting commits or changes publicly.</li>
 </ul>
-Example of STU-0004390_Blackboard_Announcement:
+Screenshot of STU-0004390_Blackboard_Announcement:<br />
 <img src="STU-0004390_Blackboard_Announcement.png" alt="STU-0004390_Blackboard_Announcement">
