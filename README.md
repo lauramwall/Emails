@@ -4,6 +4,9 @@ These are emails designed, produced, and developed by the Creative Team at the U
 <ul>
   <li>Currently not accepting commits or changes publicly.</li>
 </ul>
+Screenshot of STU-0004168-Birthday_Alumni:<br /><br/>
+<img src="STU-0004168-Birthday_Alumni.png" alt="STU-0004168-Birthday_Alumni">
+<br/>
 Screenshot of STU-0004390_Blackboard_Announcement:<br /><br/>
 <img src="STU-0004390_Blackboard_Announcement.png" alt="STU-0004390_Blackboard_Announcement">
 <br/>
